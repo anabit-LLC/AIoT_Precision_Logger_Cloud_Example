@@ -4,7 +4,7 @@ This example is covered in an Anabit YouTube video that you can access below. Th
 Open Source AIoT Precision Logger (product link below). Any questions or issues using this code can be directed at the Anabit 
 Forum (link below)
 
-Video tutorial:
+Video tutorial: https://youtu.be/Um-oUiQbfZo
 
 Anabit's open source AIoT Precision Logger: https://anabit.co/products/aiot-precision-logger
 
